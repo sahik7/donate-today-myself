@@ -43,7 +43,7 @@ header{
     margin-top: 10px;
 }
 
-.btn-donate{
+.btn-primary{
     padding: 10px 20px;
     background-color: #FF5959;
     border: none;
@@ -135,4 +135,19 @@ header{
 
 .plan-description{
     color: #707070;
+}
+
+
+/* Contribution Section */
+.contribute-section{
+    display: flex;
+    gap: 80px;
+    align-items: center;
+    height: 500px;
+    width: 80%;
+    margin: 150px auto 0;
+}
+
+.contribute-img{
+    width: 500px;
 }
